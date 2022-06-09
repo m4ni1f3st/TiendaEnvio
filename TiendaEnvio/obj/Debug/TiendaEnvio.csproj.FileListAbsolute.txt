@@ -1,0 +1,13 @@
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\bin\Debug\TiendaEnvio.exe.config
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\bin\Debug\TiendaEnvio.exe
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\bin\Debug\TiendaEnvio.pdb
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\obj\Debug\TiendaEnvio.csprojAssemblyReference.cache
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\obj\Debug\TiendaEnvio.Properties.Resources.resources
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\obj\Debug\TiendaEnvio.csproj.GenerateResource.cache
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\obj\Debug\TiendaEnvio.csproj.CoreCompileInputs.cache
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\obj\Debug\TiendaEnvio.exe
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\obj\Debug\TiendaEnvio.pdb
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\obj\Debug\TiendaEnvio.csproj.CopyComplete
+C:\Users\Donovan\Desktop\TiendaEnvio\TiendaEnvio\obj\Debug\TiendaEnvio.frmTienda.resources
